@@ -1,0 +1,5 @@
+/* static/css/custom.css */
+.section {
+    padding-top: 1rem !important;   /* default ~5-8rem depending on breakpoint */
+    padding-bottom: 1rem !important;
+}
